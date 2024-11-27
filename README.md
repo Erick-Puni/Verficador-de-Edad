@@ -22,25 +22,9 @@
 ## 🎨 Captura de Pantalla
 
 <div align="center">
-    <img src="https://via.placeholder.com/400x800" alt="Captura de pantalla" width="300">
+    <img src="https://github.com/Erick-Puni/Verficador-de-Edad/blob/master/Captura%20de%20pantalla%202024-11-27%20165425.png" alt="Captura de pantalla" width="300">
 </div>
 
 ---
 
-## 📂 Estructura del Proyecto
 
-```plaintext
-VerificadorDeEdad/
-├── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── AndroidManifest.xml
-│   │   │   ├── java/com/example/verificadordeedad/
-│   │   │   │   └── MainActivity.kt
-│   │   │   └── res/
-│   │   │       ├── layout/activity_main.xml
-│   │   │       └── values/colors.xml
-│   │   │       └── values/strings.xml
-│   │   │       └── drawable/logo.xml
-├── build.gradle.kts
-└── settings.gradle.kts
