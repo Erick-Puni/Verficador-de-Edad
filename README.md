@@ -2,7 +2,7 @@
 
 <div align="center">
     <img src="Verificadordeedad/app/src/main/res/drawable/logo.png" alt="Logo de la App" width="300">
-    <h1>S.E</h1>
+    <h1>V.E</h1>
     <p>Aplicación para verificar si eres mayor o menor de edad.</p>
 </div>
 
